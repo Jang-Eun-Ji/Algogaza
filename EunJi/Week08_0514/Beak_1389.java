@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Beak_1389_케빈베이컨6단계법칙 {
+public class Beak_1389 {
     static boolean[] visited;
     static int user = 0;
     static int friend = 0;
