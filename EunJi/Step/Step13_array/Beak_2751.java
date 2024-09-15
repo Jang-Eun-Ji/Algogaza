@@ -1,10 +1,9 @@
-package EunJi.Step.Step13;
+package EunJi.Step.Step13_array;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class Beak_2751 {

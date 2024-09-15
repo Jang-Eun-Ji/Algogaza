@@ -1,4 +1,4 @@
-package EunJi.Step.Step13;
+package EunJi.Step.Step13_array;
 
 import java.io.BufferedReader;
 import java.io.IOException;

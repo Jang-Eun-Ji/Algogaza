@@ -1,4 +1,4 @@
-package EunJi.Step.Step42_topologicalSorting;
+package EunJi.Step.Step42_TopologicalSorting;
 
 import java.io.BufferedReader;
 import java.io.IOException;
